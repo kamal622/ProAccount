@@ -1,0 +1,12 @@
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Data\bin\Debug\ProAccount.Data.dll.config
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Data\bin\Debug\ProAccount.Data.dll
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Data\bin\Debug\ProAccount.Data.pdb
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Data\bin\Debug\EntityFramework.dll
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Data\bin\Debug\ProAccount.Core.dll
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Data\bin\Debug\ProAccount.Core.pdb
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Data\bin\Debug\EntityFramework.xml
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Data\obj\Debug\ProAccount.Data.csprojResolveAssemblyReference.cache
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Data\obj\Debug\ProAccount.Data.dll
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Data\obj\Debug\ProAccount.Data.pdb

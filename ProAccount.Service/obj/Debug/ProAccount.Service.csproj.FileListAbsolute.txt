@@ -1,0 +1,14 @@
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\bin\Debug\ProAccount.Service.dll.config
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\bin\Debug\ProAccount.Service.dll
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\bin\Debug\ProAccount.Service.pdb
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\bin\Debug\EntityFramework.dll
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\bin\Debug\ProAccount.Core.dll
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\bin\Debug\ProAccount.Data.dll
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\bin\Debug\ProAccount.Core.pdb
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\bin\Debug\ProAccount.Data.pdb
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\bin\Debug\EntityFramework.xml
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\obj\Debug\ProAccount.Service.csprojResolveAssemblyReference.cache
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\obj\Debug\ProAccount.Service.dll
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Service\obj\Debug\ProAccount.Service.pdb

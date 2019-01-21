@@ -1,0 +1,5 @@
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Core\bin\Debug\ProAccount.Core.dll
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Core\bin\Debug\ProAccount.Core.pdb
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Core\obj\Debug\ProAccount.Core.csprojResolveAssemblyReference.cache
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Core\obj\Debug\ProAccount.Core.dll
+D:\Users\Kamal\ProSVN\ProAccount\ProAccount.Core\obj\Debug\ProAccount.Core.pdb
